@@ -1,0 +1,1 @@
+module.exports = {kr: "안녕", en: "hi", fr: "salut"} 
